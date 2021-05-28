@@ -2,7 +2,7 @@
 
 *Software being used: https://github.com/pmmp/PocketMine-MP*
 
-**I specialise in the following languages: **
+**I specialise in the following languages:**
 
 > Javascript \ discord.js
 
