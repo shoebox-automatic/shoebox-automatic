@@ -1,4 +1,4 @@
-**Hewo Omni Chan,:atom: shoebox here. Im a starting developer working a pmmp server**
+**shoebox here. Im a starting developer working a pmmp server**
 
 *Software being used: https://github.com/pmmp/PocketMine-MP*
 
