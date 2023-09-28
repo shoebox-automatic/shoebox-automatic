@@ -1,15 +1,7 @@
-**shoebox here. Im a starting developer working a pmmp server**
+**Hello, name is Berto. Focusing on a few programs.**
 
-*Software being used: https://github.com/pmmp/PocketMine-MP*
+> PMMP
+> Nukkit
+> Spigot
 
-**I specialise in the following languages:**
-
-> Javascript \ discord.js
-
-> Java
-
-> Python Grapic Packets
-
-> **Learning PHP as a class project**
-
-Hope to work with this awesome site. :shipit:
+> PHP, JAVA, JAVAScript, Python, c++
