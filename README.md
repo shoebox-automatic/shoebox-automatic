@@ -1,4 +1,4 @@
-**Hello, name is Berto. Focusing on a few programs.**
+**Hello, name is Roberto Avina. Focusing on a few programs.**
 
 > PMMP,
 
@@ -7,3 +7,6 @@
 > Spigot,
 
 > PHP, JAVA, JAVAScript, Python, c++
+
+
+Working on a few projects for my self personally. 
